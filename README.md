@@ -1,0 +1,1 @@
+This is my own personal formalization of schemes and other Algebraic Geometry concepts in Lean 4. It is not presently anywhere near fully functional, but concepts like sheaves and stalks are mostly working.
